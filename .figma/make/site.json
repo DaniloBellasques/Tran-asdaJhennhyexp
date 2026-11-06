@@ -1,0 +1,12 @@
+{
+  "description": "Tranças da Jhenny — arte em tranças para mulheres que valorizam beleza, qualidade e exclusividade. Simule o preço e agende seu horário.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  },
+  "title": "Tranças da Jhenny",
+  "language": "pt-BR"
+}
